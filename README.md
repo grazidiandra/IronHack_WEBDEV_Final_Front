@@ -42,7 +42,12 @@ Tablet;
 
   Lynx Educacão é um projeto desenvolvido especialmente para instituiçōes de ensino que buscam adequar seu modelo de avaliacão de alunos com o projeto da Lei do Novo Ensino Médio (Lei 13.415/2017). A aplicacão é de uso exclusivo para diretoria e professores da instituição, onde é possível o cadastro de projetos multidisciplinares, fazendo a integracão com a turma de alunos correspondente. A avaliação dos alunos feita diariamente e de forma individual, gerando um gráfico de resultados de acordo com o período já avaliado para cada aluno.
   
-  
+ ## Acesso (demo)
+ 
+ ```bash
+ email: grazi.diandra@gmail.com
+ senha:123456
+ ```
 # AUTORES
 
 Feito com :heart: por Grazi Diandra, Gabriel Escame, Monica Damasceno e Lucas Martins.
