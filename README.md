@@ -2,7 +2,7 @@ Last deploy DEV result: [![Netlify Status](https://api.netlify.com/api/v1/badges
 
 https://dev-ironhackfinal.netlify.com/
 
-## INSTALACÃO
+# INSTALACÃO
 
 1. Faça o download do repositório.
 2. Use o gerenciador de pacotes [npm](https://www.npmjs.com/).
@@ -10,16 +10,16 @@ https://dev-ironhackfinal.netlify.com/
 ```bash
 npm install
 ```
-## EXECUÇÃO
+# EXECUÇÃO
 
 No terminal, dentro da pasta do projeto rode npm start para iniciar o servidor.
 
 ```bash
 npm start # build-in the project Port:3000
 ```
-## TECNOLOGIAS
+# TECNOLOGIAS
 
-# Frontend
+## Frontend
 JavaScript;         
 React;           
 Axios;             
@@ -27,22 +27,22 @@ CSS;
 HTML;       
 
 
-# Backend
+## Backend
 Node;            
 Express;             
 MongoDB;             
 JWT;             
 Argon2;       
 
-# Responsividade
+## Responsividade
 Mobile;         
 Tablet;       
 
-## APLICACÃO
+# APLICACÃO
 
   Lynx Educacão é um projeto desenvolvido especialmente para instituiçōes de ensino que buscam adequar seu modelo de avaliacão de alunos com o projeto da Lei do Novo Ensino Médio (Lei 13.415/2017). A aplicacão é de uso exclusivo para diretoria e professores da instituição, onde é possível o cadastro de projetos multidisciplinares, fazendo a integracão com a turma de alunos correspondente. A avaliação dos alunos feita diariamente e de forma individual, gerando um gráfico de resultados de acordo com o período já avaliado para cada aluno.
   
   
-## AUTORES
+# AUTORES
 
 Feito com :heart: por Grazi Diandra, Gabriel Escame, Monica Damasceno e Lucas Martins.
