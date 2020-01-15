@@ -18,13 +18,22 @@ No terminal, dentro da pasta do projeto rode npm start para iniciar o servidor.
 npm start # build-in the project Port:3000
 ```
 ## TECNOLOGIAS
-[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
-[React](https://reactjs.org/)  
-[Axios](https://github.com/axios/axios)  
-[CSS](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)  
-[HTML](https://devdocs.io/html/)      
-[JWT](https://jwt.io/)         
-[Argon2](https://github.com/ranisalt/node-argon2#readme)
+#Frontend
+
+[JavaScript]      
+[React]     
+[Axios]       
+[CSS]       
+[HTML]
+
+
+#Backend
+
+[Node]      
+[Express]     
+[MongoDB]     
+[JWT]       
+[Argon2]
 
 ## AUTORES
 
