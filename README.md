@@ -18,23 +18,30 @@ No terminal, dentro da pasta do projeto rode npm start para iniciar o servidor.
 npm start # build-in the project Port:3000
 ```
 ## TECNOLOGIAS
-#Frontend
 
-[JavaScript]      
-[React]     
-[Axios]       
-[CSS]       
-[HTML]
+#Frontend
+JavaScript;         
+React;           
+Axios;             
+CSS;             
+HTML;       
 
 
 #Backend
+Node;            
+Express;             
+MongoDB;             
+JWT;             
+Argon2;       
 
-[Node]      
-[Express]     
-[MongoDB]     
-[JWT]       
-[Argon2]
+#Responsividade
+Mobile;         
+Tablet;       
 
+## APLICACÃO
+
+  Lynx Educacão é um projeto desenvolvido especialmente para instituiçōes de ensino que buscam adequar seu modelo de avaliacão de alunos com o projeto da Lei do Novo Ensino Médio (Lei 13.415/2017). A aplicacão é de uso exclusivo para diretoria e professores da instituição, onde é possível o cadastro de projetos multidisciplinares, fazendo a integracão com a turma de alunos correspondente. A avaliação dos alunos feita diariamente e de forma individual, gerando um gráfico de resultados de acordo com o período já avaliado para cada aluno.
+  
 ## AUTORES
 
 Feito com :heart: por Grazi Diandra, Gabriel Escame, Monica Damasceno e Lucas Martins.
