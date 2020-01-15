@@ -19,8 +19,7 @@ npm start # build-in the project Port:3000
 ```
 ## TECNOLOGIAS
 
-#Frontend
-
+# Frontend
 JavaScript;         
 React;           
 Axios;             
@@ -28,16 +27,14 @@ CSS;
 HTML;       
 
 
-#Backend
-
+# Backend
 Node;            
 Express;             
 MongoDB;             
 JWT;             
 Argon2;       
 
-#Responsividade
-
+# Responsividade
 Mobile;         
 Tablet;       
 
