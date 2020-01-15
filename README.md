@@ -44,9 +44,11 @@ Tablet;
   
  ## Acesso (demo)
  
+ versão disponível: MOBILE e TABLET
+ 
  ```bash
- email: grazi.diandra@gmail.com
- senha:123456
+ email: grazi.diandra@gmail.com # role: teacher
+ senha: 123456
  ```
 # AUTORES
 
